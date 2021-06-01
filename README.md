@@ -1,5 +1,4 @@
 # Image-Steganography-BasedOn-DCT-LBS
-# LSB and the Discrete Cosine Transform
 Imlementation of lossy image compression using DCT method (JPEG standard) and Encryption using LSB technique.
 
 --Run DCT operation first by enter the folowing commands in the console
