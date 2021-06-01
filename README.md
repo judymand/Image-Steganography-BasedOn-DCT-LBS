@@ -1,1 +1,1 @@
-# -Image-Steganography-Based-DCT-LBS
+# Image-Steganography-BasedOn-DCT-LBS
